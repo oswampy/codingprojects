@@ -1,0 +1,11 @@
+Singer match game
+
+MODES:
+
+IDENTIFY- the programme will prompt you with questions and you answer them according to your singer's profile and it will show you your singers details
+
+LIST- enter any non number category like 'male' or 'pop' and it will list all the singers matching the category
+
+LEARN- enter the name of any singer and it will list all their details
+
+GUESS- answer the questions asked by the programme and it will give you the closest match of the singers in the dataset
